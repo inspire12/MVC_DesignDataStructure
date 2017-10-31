@@ -3,7 +3,7 @@ This is Java DataStructure Library by MVC model capsulating implement for practi
 
 Contents
 ----------
-![](https://github.com/inspire12/MVC_DesignDataStructure/Graph_structure.png)
+![](https://github.com/inspire12/MVC_DesignDataStructure/blob/master/Graph_structure.png)
 ----------
 **Lab**
 - Biparite 
